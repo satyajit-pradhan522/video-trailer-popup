@@ -24,6 +24,6 @@ This project displays a movie/video trailer in a popup modal when the user click
 
 ## 📸 Screenshot  
 
-![Video Trailer Popup Screenshot](./screenshot.png)  
+![Video Trailer Popup Screenshot](VideoTrailerPopup/Screenshot.png)  
 
 ---
